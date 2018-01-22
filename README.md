@@ -1,2 +1,2 @@
 # FirstLaravel
-PHP with Laravel for beginners
+PHP with Laravel for beginners!
